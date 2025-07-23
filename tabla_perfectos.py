@@ -1,6 +1,6 @@
 # Este es un comentari sobre el programa
 # Escriu un taula amb tos el nombres perfectes entre 1 i n
-# Tercera versió
+# Cuarta versió
 
 def es_perfecto(n):
     sumatorio = 0
